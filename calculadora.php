@@ -89,7 +89,7 @@
         break;
        }
       } else {
-       return "Ocorreu um erro";
+       return "Ocorreu um pequeno erro";
       }
      }
      return $calc;
